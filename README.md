@@ -10,7 +10,12 @@ Graduanda em Análise e desenvolvimento de sistemas 👩🏻‍💻| Enfermeira 
 ![J4nah GitHub stats](https://github-readme-stats.vercel.app/api?username=J4nah&show_icons=true&theme=synthwave) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J4nah&theme=synthwave)
 
- ![snake gif](https://github.com/J4nah/J4nah/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+ 
 
 ## Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janaina-gomes-568513268/)
