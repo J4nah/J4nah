@@ -26,6 +26,7 @@ jobs:
           github_user_name: J4nah
          
           svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
 
       - run: git status
 
