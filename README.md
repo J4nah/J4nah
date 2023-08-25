@@ -8,8 +8,6 @@ Graduanda em Análise e desenvolvimento de sistemas 👩🏻‍💻| Enfermeira 
 
 ## GitHub Stats
 ![J4nah GitHub stats](https://github-readme-stats.vercel.app/api?username=J4nah&show_icons=true&theme=synthwave) 
-![J4nah GitHub stats](https://github-readme-stats.vercel.app/api?username=J4nah&show_icons=true&theme=synthwave)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J4nah&theme=synthwave)
 
 ## Redes Sociais
