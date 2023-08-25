@@ -16,4 +16,4 @@ Graduanda em Análise e desenvolvimento de sistemas 👩🏻‍💻| Enfermeira 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/janaina_fg/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/j4nah)
 
-![snake animation](https://github.com/<J4nah>/<J4nah>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/J4nah/J4nah/blob/output/github-contribution-grid-snake.svg)
