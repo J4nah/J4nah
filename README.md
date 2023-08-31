@@ -10,7 +10,7 @@
  
 ## GitHub Stats
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J4nah&show_icons=true&theme=synthwave"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4nah&layout=compact&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4nah&layout=compact&theme=synthwave"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J4nah/J4nah/output/github-contribution-grid-snake-dark.svg">
