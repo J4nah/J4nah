@@ -5,7 +5,7 @@
 <body>
 <div align = "center">
 
-![gif](https://cdn.discordapp.com/attachments/1080350795297472524/1144440163532034138/ezgif.com-resize.gif)
+![gif](https://media.discordapp.net/attachments/1080350795297472524/1144440163532034138/ezgif.com-resize.gif?ex=66188b75&is=66061675&hm=4a32a24a5ef87d8c5679edbe8dbe61c5aef13cba81458e9309f1cef48e7f936b&=&width=250&height=250)
 
  
 ## GitHub Stats
