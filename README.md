@@ -1,4 +1,6 @@
-<h1 align="center">Olá!!! Eu sou a Janaína</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Olá!!!+Eu+Sou+a+Janaína!;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <h2 align="center">🚀🚀🚀Sobre Mim🚀🚀🚀</h2>
 <h3 align="center">Graduanda em Análise e desenvolvimento de sistemas 👩🏻‍💻| Enfermeira 👩🏻‍⚕️| Especialista em urgência, emergência e UTI 🏥</h3>
